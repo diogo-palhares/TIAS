@@ -1,38 +1,26 @@
-# Casa de repouso da vovó e do vovô
+# GeriCare — Sistema de Gestão de Informações para Casa de Repouso
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Trabalho Interdisciplinar Aplicações para Sustentabilidade`
+`PUC Minas — Contagem`
 
-`1º semestre/2025`
+`2026`
 
-O projeto "Jeitinho da Vovó e do Vovô" tem como objetivo principal desenvolver um sistema web responsivo, otimizado para dispositivos móveis, que facilite a gestão das informações dos pacientes da Casa de Repouso do Jeitinho da Vovó e do Vovô. A proposta visa substituir os registros físicos e o sistema atual, que não atende completamente às necessidades da instituição, centralizando dados como laudos médicos, medicações, alergias e informações de contato dos familiares em um ambiente seguro, acessível e de fácil utilização.
+O **GeriCare** é um sistema de gestão de informações desenvolvido para a **Casa de Repouso Do Jeitinho da Vovó**, com foco na gestão de pacientes e no controle de estoque de medicamentos. A proposta substitui os registros físicos e um sistema legado que não atendia plenamente às necessidades da instituição, centralizando dados como prontuários, medicações, alergias e contatos de familiares em um ambiente seguro, acessível e de fácil utilização.
 
-Além de proporcionar mais agilidade no acesso às informações, a solução busca garantir maior segurança dos dados e melhorar a qualidade do atendimento oferecido aos residentes. Com isso, pretende-se otimizar a rotina dos colaboradores, reduzir erros operacionais e contribuir para um cuidado mais eficiente, personalizado e humanizado, alinhando o projeto às práticas de responsabilidade social e aos Objetivos de Desenvolvimento Sustentável (ODS) relacionados à saúde e bem-estar.
+Além de proporcionar mais agilidade no acesso às informações, a solução busca garantir maior segurança dos dados e melhorar a qualidade do atendimento aos residentes, otimizando a rotina dos colaboradores e reduzindo erros operacionais.
 
 ## Integrantes
 
-* Ana Clara Lima Marçal 
-* Ana Flavia de Oliveira Costa 
-* Diogo Campos Palhares 
-* Eduarda Silva Santos Nunis 
-* Igor Alvarenga Nunes de Brito 
-* Pedro Antônio Silva Neto 
+* Ana Clara Lima Marçal
+* Ana Flávia de Oliveira Costa
+* Diogo Campos Palhares
+* Kayro Danyell Alves
+* Pedro Henrique Marques Simões
 
 ## Professor
 
-* Maria Ines Lage de Paula
-* Paulo Henrique Rodrigues
-
-<!-- ## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-Não deixe de informar o link onde a aplicação estará disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.-->
+* Paulo Isnard
 
 # Documentação
 

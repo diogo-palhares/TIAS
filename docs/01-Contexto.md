@@ -1,13 +1,13 @@
 # Introdução
 
-O projeto “Jeitinho da Vovó e do Vovô” tem como objetivo desenvolver uma aplicação web, responsiva e otimizada para dispositivos móveis, voltada para a gestão de informações dos pacientes da Casa de Repouso do Jeitinho da Vovó e do Vovô. A necessidade surgiu a partir da observação das dificuldades enfrentadas pelos colaboradores na gestão de dados dos residentes, que atualmente são armazenados em registros físicos e em um sistema que não atende plenamente às suas necessidades.
+O **GeriCare** é um sistema de gestão de informações, em formato de aplicação web responsiva e otimizada para dispositivos móveis, voltado à gestão dos pacientes da Casa de Repouso Do Jeitinho da Vovó. A necessidade surgiu a partir da observação das dificuldades enfrentadas pelos colaboradores na gestão de dados dos residentes, que atualmente são armazenados em registros físicos e em um sistema que não atende plenamente às suas necessidades.
 
 A Casa de Repouso é uma instituição que oferece moradia, cuidados médicos e suporte emocional para pessoas em situação de vulnerabilidade, especialmente idosos que necessitam de acompanhamento diário. A falta de um sistema prático, acessível e adequado impacta diretamente na eficiência dos atendimentos, no controle de medicações e na organização das informações médicas e pessoais dos residentes.
 
-Este projeto se insere na disciplina extensionista, pois promove a aplicação prática dos conhecimentos acadêmicos na solução de um problema real da comunidade. Além de melhorar significativamente os processos internos da instituição, o sistema proporcionará mais qualidade no atendimento, segurança nas informações e bem-estar aos residentes.
+Este projeto promove a aplicação prática dos conhecimentos do curso de Sistemas de Informação na solução de um problema real. Além de melhorar significativamente os processos internos da instituição, o sistema proporcionará mais qualidade no atendimento, segurança nas informações e bem-estar aos residentes.
 
 ## Cliente 
-Casa de Repouso Jeitinho da Vovó e do Vovô
+Casa de Repouso Do Jeitinho da Vovó
 
 * Missão: Oferecer cuidado, acolhimento, bem-estar e qualidade de vida para pessoas que necessitam de assistência contínua, com foco no respeito, na dignidade e na individualidade de cada residente.
   
@@ -45,7 +45,7 @@ Diante disso, surge a necessidade de um sistema mais simples, intuitivo, seguro 
 
 ## Objetivos
 
-Desenvolver uma aplicação web responsiva e segura que otimize a gestão das informações dos residentes da Casa de Repouso Jeitinho da Vovó e do Vovô, facilitando o acesso e a organização dos dados de forma prática e eficiente.
+Desenvolver o sistema GeriCare, uma aplicação web responsiva e segura que otimize a gestão das informações dos residentes da Casa de Repouso Do Jeitinho da Vovó, facilitando o acesso e a organização dos dados de forma prática e eficiente.
 
 Objetivos Específicos:
 *Elicitar os requisitos funcionais e não funcionais necessários para atender às demandas da instituição.
@@ -63,7 +63,7 @@ A criação deste sistema se justifica pela necessidade real e urgente de otimiz
 
 O uso de registros físicos, além de ineficiente, oferece riscos operacionais como perda de informações, dificuldade de acesso e erros humanos. O sistema atual, embora robusto, é complexo, difícil de operar para os colaboradores e não oferece mobilidade, além de ter um custo elevado para uma instituição de pequeno porte.
 
-Diante disso, nosso projeto busca solucionar esses desafios por meio de uma plataforma simples, acessível, portátil e segura, alinhada às reais necessidades da instituição. Além disso, essa iniciativa cumpre um importante papel social e educacional, uma vez que promove a aplicação dos conhecimentos adquiridos no curso em benefício direto da comunidade, fortalecendo o compromisso extensionista da universidade.
+Diante disso, o GeriCare busca solucionar esses desafios por meio de uma plataforma simples, acessível, portátil e segura, alinhada às reais necessidades da instituição. Além disso, essa iniciativa cumpre um importante papel social e educacional, uma vez que promove a aplicação dos conhecimentos adquiridos no curso em benefício direto da comunidade.
 
 ## Fundamentação Teórica
 
@@ -86,7 +86,7 @@ As informações de saúde dos residentes são classificadas como dados pessoais
 A construção da solução apoia-se em práticas consagradas da Engenharia de Software. Sommerville (2018) define a disciplina como aquela que abrange todos os aspectos da produção de software, da especificação à evolução, enquanto Pressman e Maxim (2016) ressaltam a importância de processos sistemáticos para garantir qualidade e manutenibilidade. Para nortear os atributos de qualidade do produto, adotou-se como referência a norma ISO/IEC 25010 (2011), que organiza características como adequação funcional, usabilidade, confiabilidade, eficiência de desempenho e segurança — critérios detalhados na seção de Arquitetura da Solução.
 
 ## Público-alvo
-O público-alvo do sistema são os colaboradores da Casa de Repouso Jeitinho da Vovó e do Vovô, que atuam diretamente na gestão e no cuidado dos residentes. Isso inclui:
+O público-alvo do sistema são os colaboradores da Casa de Repouso Do Jeitinho da Vovó, que atuam diretamente na gestão e no cuidado dos residentes. Isso inclui:
 
 Diretora Administrativa: Responsável pela supervisão geral, organização dos dados e gestão dos colaboradores.
 Cuidadores: Utilizarão o sistema para acessar informações como laudos médicos, medicações, alergias e dados de contato de familiares.

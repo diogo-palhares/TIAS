@@ -1,7 +1,7 @@
 # Modelagem dos Processos de Negócio
 ## Modelagem da Situação Atual (Modelagem AS-IS)
 
-Atualmente, a Casa de Repouso "Jeitinho da Vovó e do Vovô" gerencia as informações dos pacientes e o controle de medicamentos usando um processo predominantemente manual e um sistema legado (Gerifácil) que não atende às necessidades de mobilidade e eficiência da equipe.
+Atualmente, a Casa de Repouso Do Jeitinho da Vovó gerencia as informações dos pacientes e o controle de medicamentos usando um processo predominantemente manual e um sistema legado (Gerifácil) que não atende às necessidades de mobilidade e eficiência da equipe.
 
 **Gestão de Informações de Pacientes:**
 Os registros dos pacientes, como laudos médicos, alergias, prontuários e contatos de familiares, são armazenados fisicamente em arquivos de papel. Quando um colaborador precisa consultar algo, ele precisa ir até o local de arquivamento, localizar o prontuário e folhear os documentos. Esse processo é demorado, propenso a erros (documentos podem se perder ou ser danificados) e dificulta o acesso rápido a informações críticas durante o atendimento ou em emergências. Duplicidade de registros e desorganização são problemas comuns.
@@ -31,7 +31,7 @@ Aqui serão colados os diagramas BPMN dos processos atuais (AS-IS).
 
 ## Descrição Geral da Proposta (Modelagem TO-BE)
 
-A solução que propomos é um **sistema web responsivo e otimizado para dispositivos móveis** para modernizar e otimizar a gestão das informações dos pacientes e o controle de medicamentos na Casa de Repouso "Jeitinho da Vovó e do Vovô". Nosso objetivo é substituir os registros físicos e o sistema legado, centralizando todas as informações em um ambiente digital seguro, de fácil acesso e intuitivo.
+A solução que propomos é um **sistema web responsivo e otimizado para dispositivos móveis** para modernizar e otimizar a gestão das informações dos pacientes e o controle de medicamentos na Casa de Repouso Do Jeitinho da Vovó. Nosso objetivo é substituir os registros físicos e o sistema legado, centralizando todas as informações em um ambiente digital seguro, de fácil acesso e intuitivo.
 
 Com a introdução da tecnologia, buscaremos maior eficiência através de:
 
@@ -50,7 +50,7 @@ Essa solução está diretamente alinhada com os objetivos da Casa de Repouso de
 * **Aumentar a eficiência operacional:** Reduzir o tempo gasto em tarefas administrativas e otimizar fluxos de trabalho.
 * **Melhorar a segurança do paciente:** Minimizar erros na administração de medicamentos e garantir acesso rápido a informações de saúde.
 * **Reduzir custos:** Eliminar a necessidade de papel e reduzir os custos de manutenção de sistemas superdimensionados.
-* **Contribuir para o ODS 3 (Boa Saúde e Bem-Estar):** Ao aprimorar o cuidado e a gestão de idosos, o projeto impacta positivamente a saúde e a qualidade de vida dos residentes.
+* **Promover a saúde e o bem-estar dos residentes:** Ao aprimorar o cuidado e a gestão de idosos, o projeto impacta positivamente a saúde e a qualidade de vida dos residentes.
 
 ---
 

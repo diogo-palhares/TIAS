@@ -8,7 +8,7 @@ Foram utilizadas técnicas como levantamento de requisitos através de entrevist
 
 ## Personas
 
-Para o sistema de gestão de pacientes da Casa de Repouso "Jeitinho da Vovó e do Vovô", identificamos as seguintes personas:
+Para o sistema de gestão de pacientes da Casa de Repouso Do Jeitinho da Vovó, identificamos as seguintes personas:
 
 ### 1. Maria Eduarda, a Enfermeira Dedicada
 
@@ -43,7 +43,7 @@ Para o sistema de gestão de pacientes da Casa de Repouso "Jeitinho da Vovó e d
 
 ### 3. Aira, a Diretora Administrativa Visionária
 
-* **Dados demográficos:** 45 anos, Diretora Administrativa da Casa de Repouso "Jeitinho da Vovó e do Vovô", possui graduação em administração e experiência em gestão de instituições de saúde.
+* **Dados demográficos:** 45 anos, Diretora Administrativa da Casa de Repouso Do Jeitinho da Vovó, possui graduação em administração e experiência em gestão de instituições de saúde.
 * **Personalidade:** Estratégica, focada em resultados, preocupada com a qualidade dos serviços e a eficiência operacional. Busca soluções que otimizem os processos e reduzam custos.
 * **Objetivos:**
     * Garantir a segurança e integridade dos dados dos pacientes.
